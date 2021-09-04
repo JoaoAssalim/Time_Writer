@@ -3,7 +3,7 @@
 This program is made to calculate the time you spend writing sentences.
 
 ![Build Status](https://travis-ci.org/joemccann/dillinger.svg?branch=master)
-![](https://img.shields.io/github/stars/JoaoAssalim/ConvertCase)
+![](https://img.shields.io/github/stars/JoaoAssalim/Time_Writer)
 
 - Calculate time you wrote
 - how many letters written per second
